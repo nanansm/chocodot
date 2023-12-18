@@ -37,17 +37,17 @@ h1 {
 h2 {
   color: #663300;
   letter-spacing: 0em;
-  text-shadow: 2px 2px #ffff;
+  
 }
 
 h3{
   font-weight: 500; color: #663300;
-  text-shadow: 1px 1px #ffff;
+  
 }
 
 p{
   color: #663300;
-  text-shadow: 1px 1px #ffff;
+  
 }
 
 h4 {
@@ -110,7 +110,7 @@ hr {
   color: #ffff;
   padding: 15px 1px;
   background-color: #663300;
-  box-shadow: 2px 5px black;
+  /**box-shadow: 2px 5px black;**/
 }
 
 
