@@ -138,13 +138,9 @@ hr {
   flex: 5;
   margin-right: 8px;
   transition: transform 0.2s;
-  color: #ffffff;
+  color: #f2d348;
 }
 
-.channels_item:hover {
-  transition: transform 1.5s;
-  color: #ffffff;
-}
 
 /**********ID SELECTORS**********/
 /*ID Selectors can only be ussed once per page*/
